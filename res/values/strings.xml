@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Velha</string>
+    <string name="acao_sobre">Sobre</string>
+    <string name="acao_novo">Novo Jogo</string>
+    <string name="title_activity_sobre">Sobre</string>
+    
+
+</resources>
